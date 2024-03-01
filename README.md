@@ -22,7 +22,7 @@
   <h3 align="center">Languages Spoken:</h3>
 
 <p align="center">
-  Swahili (Native)
+  Swahili (Fluent)
   <br>
   English (Fluent)
 </p>
