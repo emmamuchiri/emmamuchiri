@@ -4,7 +4,6 @@
 
   <img align="right" alt="Data Science" width="400" src="https://media1.giphy.com/media/mCRJDo24UvJMA/giphy.gif?cid=ecf05e47a3agyz6il9xh8k5gby5vfi9s49t6h5ruynh3nk6n&rid=giphy.gif" />
 
-  <p align="left"> <a href="https://twitter.com/_spicenjokii" target="blank"><img src="https://img.shields.io/twitter/follow/EmmahMuchiri?logo=twitter&style=for-the-badge" alt="EmmahMuchiri" /></a> </p>
 
   <h2 align="center">🌱 Currently Channeling Knowledge In</h2>
 
